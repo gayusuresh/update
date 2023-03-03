@@ -1,0 +1,134 @@
+2022-12-19 11:58:02,929 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 10:07:59,834 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-21 09:34:40,121 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-26 09:38:46,905 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-27 09:40:01,601 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-28 09:40:06,859 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-31 09:26:34,370 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-03 09:40:57,594 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-05 09:39:55,286 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-06 09:40:29,966 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-07 09:39:34,547 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-09 09:35:33,591 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-10 09:45:15,818 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-10 14:34:08,568 [Worker-39: Creating project "HibernatenamedQueryExample"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:HibernatenamedQueryExample:0.0.1-SNAPSHOT @ D:\capgeminibatch\HibernatenamedQueryExample\pom.xml.
+2023-01-10 14:34:17,624 [Worker-39: Creating project "HibernatenamedQueryExample"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernatenamedQueryExample/src/main/java
+2023-01-10 14:34:17,627 [Worker-39: Creating project "HibernatenamedQueryExample"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernatenamedQueryExample/src/main/resources
+2023-01-10 14:34:17,627 [Worker-39: Creating project "HibernatenamedQueryExample"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernatenamedQueryExample/src/test/java
+2023-01-10 14:34:17,627 [Worker-39: Creating project "HibernatenamedQueryExample"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernatenamedQueryExample/src/test/resources
+2023-01-10 14:35:23,694 [Worker-39: Creating project "HibernatenamedQueryExample"] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-10 14:35:23,929 [Worker-39: Creating project "HibernatenamedQueryExample"] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-10 14:35:23,932 [Worker-39: Creating project "HibernatenamedQueryExample"] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-10 14:35:23,942 [Worker-39: Creating project "HibernatenamedQueryExample"] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-11 09:37:47,956 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-11 10:31:18,979 [Worker-26: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-11 10:31:19,023 [Worker-26: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-11 10:31:19,028 [Worker-26: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-11 10:31:19,031 [Worker-26: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-12 10:51:00,808 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-13 09:50:27,901 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-18 09:40:09,636 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-18 10:14:54,140 [Worker-23: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 10:14:54,162 [Worker-23: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-18 10:14:54,164 [Worker-23: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-18 10:14:54,165 [Worker-23: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-19 09:42:59,786 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-19 13:58:23,630 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-20 09:36:09,808 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-23 10:10:36,650 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-25 09:50:09,698 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-25 11:47:48,311 [Worker-23: Creating project "FirstProject"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:FirstProject:0.0.1-SNAPSHOT @ D:\capgeminibatch\FirstProject\pom.xml.
+2023-01-25 11:47:50,315 [Worker-23: Creating project "FirstProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstProject/src/main/java
+2023-01-25 11:47:50,320 [Worker-23: Creating project "FirstProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FirstProject/src/main/resources
+2023-01-25 11:47:50,321 [Worker-23: Creating project "FirstProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstProject/src/test/java
+2023-01-25 11:47:50,322 [Worker-23: Creating project "FirstProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FirstProject/src/test/resources
+2023-01-25 11:47:50,768 [Worker-23: Creating project "FirstProject"] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-25 11:47:50,781 [Worker-23: Creating project "FirstProject"] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-25 11:47:50,784 [Worker-23: Creating project "FirstProject"] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-25 11:47:50,785 [Worker-23: Creating project "FirstProject"] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:28:10,999 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-31 10:14:53,414 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-02 17:40:52,437 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-07 09:38:52,897 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-09 09:43:52,637 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-09 09:47:39,090 [Worker-14: Creating project "FirstMockitoProject"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:FirstMockitoProject:0.0.1-SNAPSHOT @ D:\capgeminibatch\FirstMockitoProject\pom.xml.
+2023-02-09 09:47:41,379 [Worker-14: Creating project "FirstMockitoProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstMockitoProject/src/main/java
+2023-02-09 09:47:41,387 [Worker-14: Creating project "FirstMockitoProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FirstMockitoProject/src/main/resources
+2023-02-09 09:47:41,388 [Worker-14: Creating project "FirstMockitoProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstMockitoProject/src/test/java
+2023-02-09 09:47:41,389 [Worker-14: Creating project "FirstMockitoProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FirstMockitoProject/src/test/resources
+2023-02-09 09:47:43,996 [Worker-14: Creating project "FirstMockitoProject"] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 09:47:44,013 [Worker-14: Creating project "FirstMockitoProject"] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 09:47:44,015 [Worker-14: Creating project "FirstMockitoProject"] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 09:47:44,017 [Worker-14: Creating project "FirstMockitoProject"] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:18:51,630 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-02-09 10:18:52,977 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:FirstMockitoProject:0.0.1-SNAPSHOT @ D:\capgeminibatch\FirstMockitoProject\pom.xml.
+2023-02-09 10:18:54,209 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstMockitoProject/src/main/java
+2023-02-09 10:18:54,210 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FirstMockitoProject/src/main/resources
+2023-02-09 10:18:54,210 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstMockitoProject/src/test/java
+2023-02-09 10:18:54,211 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FirstMockitoProject/src/test/resources
+2023-02-09 10:18:55,867 [Worker-32: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:18:55,878 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:18:55,882 [Worker-32: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:18:55,883 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:18:56,719 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2023-02-09 10:31:01,391 [Worker-40: Launching MainDemo (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:31:01,399 [Worker-40: Launching MainDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:31:01,403 [Worker-40: Launching MainDemo (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:31:01,405 [Worker-40: Launching MainDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:32:06,033 [Worker-31: Launching MainDemo (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:32:06,048 [Worker-31: Launching MainDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:32:06,050 [Worker-31: Launching MainDemo (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:32:06,051 [Worker-31: Launching MainDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:32:57,008 [Worker-41: Launching MainDemo (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:32:57,012 [Worker-41: Launching MainDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:32:57,013 [Worker-41: Launching MainDemo (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:32:57,015 [Worker-41: Launching MainDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:34:24,723 [Worker-39: Launching MainDemo (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:34:24,724 [Worker-39: Launching MainDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:34:24,728 [Worker-39: Launching MainDemo (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:34:24,733 [Worker-39: Launching MainDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:35:15,136 [Worker-32: Launching MainDemo (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:35:15,160 [Worker-32: Launching MainDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:35:15,162 [Worker-32: Launching MainDemo (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:35:15,164 [Worker-32: Launching MainDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:38:53,673 [Worker-44: Launching MainDemo (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:38:53,693 [Worker-44: Launching MainDemo (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:38:53,697 [Worker-44: Launching MainDemo (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:38:53,699 [Worker-44: Launching MainDemo (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:39:37,756 [Worker-39: Launching MainDemo (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:39:37,768 [Worker-39: Launching MainDemo (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:39:37,789 [Worker-39: Launching MainDemo (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:39:37,790 [Worker-39: Launching MainDemo (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:39:53,635 [Worker-44: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:39:53,638 [Worker-44: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:39:53,640 [Worker-44: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:39:53,642 [Worker-44: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:39:53,738 [Worker-44: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:39:53,739 [Worker-44: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:39:53,740 [Worker-44: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:39:53,741 [Worker-44: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:40:01,041 [Worker-46: Launching MainDemo (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:40:01,047 [Worker-46: Launching MainDemo (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-09 10:40:01,049 [Worker-46: Launching MainDemo (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-09 10:40:01,050 [Worker-46: Launching MainDemo (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-10 09:48:48,977 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-10 10:27:55,916 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-10 10:53:04,035 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-10 10:56:01,369 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-10 11:01:08,129 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-14 09:45:42,900 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-15 09:46:26,440 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-15 11:27:21,517 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-15 11:27:21,580 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-15 11:27:21,589 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-15 11:27:21,593 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-15 11:27:24,299 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-15 11:27:24,300 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-15 11:27:24,303 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-15 11:27:24,306 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-15 11:27:24,471 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-15 11:27:24,472 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-15 11:27:24,474 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-15 11:27:24,484 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-16 09:57:01,875 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-17 09:38:31,969 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

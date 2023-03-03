@@ -1,0 +1,71 @@
+package serviceImpl;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import bean.Employee;
+
+import service.EmployeeService;
+
+public class EmployeeImplementation  implements EmployeeService
+{
+	 List<Employee>list=new ArrayList<Employee>();
+	 public EmployeeImplementation()
+	 {
+		Employee e1=new Employee(1001,"gayathri",23000,"CBE",2);
+	 }
+	@Override
+	public void addEmployee() 
+	{
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter the id");
+		  int empid=sc.nextInt();
+		  System.out.println("enter the name");
+
+		  String ename=sc.next();
+		  System.out.println("enter theslary");
+
+		  float salary=sc.nextFloat();
+		  System.out.println("enter theaddress");
+
+		  String address=sc.next();
+		  System.out.println("enter the exp");
+		  int exp=sc.nextInt();
+		
+		Employee s=new Employee(empid, ename, salary, address, exp);
+		
+		list.add(s);
+
+        
+	}
+
+	@Override
+	public void updateEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void findAllEmployee(int eid)
+	{
+		Employee e=new Employee();
+		if(list.size()==0)
+		{
+			System.out.println("No record found!!");
+		}
+		
+		
+		for(Employee s:list)
+		{
+	System.out.println(s);
+
+	}
+	}
+}

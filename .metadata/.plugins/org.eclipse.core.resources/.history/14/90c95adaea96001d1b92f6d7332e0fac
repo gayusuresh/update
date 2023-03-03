@@ -1,0 +1,13 @@
+package collection;
+
+public class MovieMain {
+
+	public static void main(String[] args) {
+		Movie m1=new Movie("RRR","S. S. Rajamouli",4,3.4f);
+		Movie m2=new Movie("LionKing","Jon Favreau",3,4.2f);
+		Movie m3=new Movie("Bhagubali","S. S. Rajamouli",4,3.4f);
+		Movie m4=new Movie("Avatar","James Cameron",,f);
+
+	}
+
+}

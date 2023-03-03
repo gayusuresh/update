@@ -1,0 +1,33 @@
+package task;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+public class MapExample {
+
+	public static void main(String[] args) {
+		HashMap<String,List<String>>map=new HashMap<String,List<String>>();
+		ArrayList <String>list=new ArrayList<String>();
+		list.add("apple");
+		list.add("aeroplane");
+		list.add("ant");
+		
+		ArrayList <String>list1=new ArrayList<String>();
+		list1.add("Ball");
+		list1.add("Banana");
+		list1.add("Bat");
+		
+		ArrayList <String>list2=new ArrayList<String>();
+		list2.add("Car");
+		list2.add("Cat");
+		list2.add("Cap");
+		
+		map.put("A", list);
+		map.put("B", list1);
+		map.put("C", list2);
+		System.out.println(map);
+
+	}
+
+}

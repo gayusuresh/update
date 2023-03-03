@@ -1,0 +1,20 @@
+package task;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+public class MapExample {
+
+	public static void main(String[] args) {
+		HashMap<String,List<String>>map=new HashMap<String,List<String>>();
+		ArrayList <String>list=new ArrayList<String>();
+		list.add("apple");
+		list.add("aeroplane");
+		list.add("ant");
+		map.put("A", list);
+		System.out.println(map);
+
+	}
+
+}

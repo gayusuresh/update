@@ -1,0 +1,12 @@
+package factorydesignpattern;
+
+public interface Plan 
+{
+	 public static final double rate=67;  
+	 void getRate();  
+		  public static void calculateBill(int units)
+		  {   
+		      System.out.println(units*rate);  
+
+		  }
+}

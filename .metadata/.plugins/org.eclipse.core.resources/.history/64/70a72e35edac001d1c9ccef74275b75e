@@ -1,0 +1,53 @@
+package serviceImpl;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import bean.Employee;
+
+import service.EmployeeService;
+
+public class EmployeeImplementation  implements EmployeeService
+{
+	 List<Employee>list=new ArrayList<Employee>();
+	@Override
+	public void addEmployee(Employee e) 
+	{
+		list.add(new Employee(101,"Raman",23000,"CBE",2));
+		list.add(new Employee(102,"Suman",33000,"HYD",3));
+		list.add(new Employee(103,"Krishna",345000,"Mumbai",5));
+       
+        list.add(e);
+        list.forEach(n->System.out.println(n));
+        
+	}
+
+	@Override
+	public void updateEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteEmployee() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void findAllEmployee(int eid)
+	{
+		Employee e=new Employee();
+		if(list.size()==0)
+		{
+			System.out.println("No record found!!");
+		}
+		
+		
+		for(Employee s:list)
+		{
+	System.out.println(s);
+
+	}
+
+}

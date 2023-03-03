@@ -1,0 +1,24 @@
+package task;
+
+import java.util.ArrayList;
+
+public class StudentMain {
+
+	public static void main(String[] args) {
+		Student s1=new Student(1001,"gayathri",69,89,78,90,78);
+		//System.out.println(s1);
+		Student s2=new Student(1002,"ramkumar",99,89,78,90,68);
+		//System.out.println(s2);
+		Student s3=new Student(1003,"Ajith",79,89,78,60,68);
+		//System.out.println(s3);
+		ArrayList<Student>list=new ArrayList<Student>();
+		list.add(s1);
+		list.add(s2);
+		list.add(s3);
+		for(Student s:list)
+		{
+			System.out.println(s);
+		}
+	}
+
+}

@@ -1,0 +1,10 @@
+package lambadaexp;
+
+public class StreamReduceExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,49 @@
+package collection;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Iterator;
+import java.util.List;
+
+public class EmployeeMain {
+
+	public static void main(String[] args) {
+		Employee e1=new Employee("siva","CBE",73000);
+		Employee e2=new Employee("gayathri","banglore",43000);
+		Employee e3=new Employee("radhai","pune",63000);
+		ArrayList<Employee>list=new ArrayList<Employee>();
+		list.add(e1);
+		list.add(e2);
+		list.add(e3);
+		System.out.println(list);
+		salaryCalculation(list);
+      System.out.println("=================");
+      for(Employee e:list)
+      {
+    	  System.out.println(e);
+      }
+      System.out.println("=================sorting");
+      Collections.sort(list);
+      for(Employee e:list)
+      {
+    	  System.out.println(e);
+      }
+      System.out.println("===============Iter");
+      Iterator<Employee>it=list.iterator();
+      while(it.hasNext())
+      {
+    	  System.out.println(it.next());
+      }
+	}
+	public static void salaryCalculation(List<Employee>list)
+	{
+		for(Employee e:list)
+		{
+			if(e.getSalary()>=50000)
+			{
+				System.out.println(e.geteName());
+			}
+		}
+	}
+
+}

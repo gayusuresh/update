@@ -1,0 +1,12 @@
+package task;
+
+public class StudentMain {
+
+	public static void main(String[] args) {
+		Student s1=new Student(1001,"gayathri",69,89,78,90,78);
+		System.out.println(s1.getId());
+		
+
+	}
+
+}

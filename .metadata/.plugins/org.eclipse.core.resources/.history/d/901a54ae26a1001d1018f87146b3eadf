@@ -1,0 +1,16 @@
+package task;
+
+public class StudentMain {
+
+	public static void main(String[] args) {
+		Student s1=new Student(1001,"gayathri",69,89,78,90,78);
+		System.out.println(s1.getId());
+		System.out.println(s1.getName());
+		System.out.println(s1.getSub1());
+		System.out.println(s1.getSub2());
+		System.out.println(s1.getPercentage());
+		//System.out.println(s1.getName());
+
+	}
+
+}

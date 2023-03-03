@@ -1,0 +1,68 @@
+package UI;
+
+import java.util.Scanner;
+
+import bean.Employee;
+import serviceImpl.EmployeeImplementation;
+
+public class EmployeeMain {
+
+	public static void main(String[] args)
+	{
+		String s;
+      Scanner sc=new Scanner(System.in);
+      System.out.println("EmployeeManagementSystem");
+      System.out.println("1.View Employee");
+      System.out.println("2.Add Employee");
+      System.out.println("3.Update Employee");
+      System.out.println("4.Delete Employee");
+
+
+
+      System.out.println("EmployeeManagementSystem");
+
+      do
+      {
+    	  System.out.println("Enter the choice ");
+    	  int choice=sc.nextInt();
+    	  switch(choice)
+    	  {
+    	  case 1:
+    		  System.out.println("enter the id");
+    		  int eid=sc.nextInt();
+    		  
+    		    new EmployeeImplementation().findAllEmployee(eid);
+    		  break;
+    	  case 2:
+    		  System.out.println("enter the id");
+    		  int empid=sc.nextInt();
+    		  System.out.println("enter the name");
+
+    		  String ename=sc.next();
+    		  System.out.println("enter theslary");
+
+    		  float salary=sc.nextFloat();
+    		  System.out.println("enter theaddress");
+
+    		  String address=sc.next();
+    		  System.out.println("enter the exp");
+
+    		  int exp=sc.nextInt();
+    		  Employee e=new Employee();
+    		  e.seteId(empid);
+    		  e.seteName(ename);
+    		  e.setSalary(salary);
+    		  e.setAddress(address);
+    		  e.setExp(exp);
+    		  new EmployeeImplementation().addEmployee(e);
+    		  
+    	  }
+    	  System.out.println("do you want to continue");
+    	   s=sc.next();
+
+       }
+	  while(s.equals("yes"));
+
+	}
+
+}
